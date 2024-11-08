@@ -6,6 +6,15 @@ Brazil
 .. |API| replace:: :abbr:`API (Application programming interface)`
 .. |SO| replace:: :abbr:`SO (Sales order)`
 
+Resourceful Links
+=================
+
+Links to videos, onboarding material, and general information of the localization, and how to configure it.
+
+- `Onboarding for new users <https://docs.google.com/document/d/e/2PACX-1vSNYTYVnR_BzvQKL3kn5YdVzPjjHc-WHw_U3udk5tz_dJXo69woj9QrTMinH_siyOX2rLGjvspvc8AF/pub>`_.
+- `YouTube Playlist - Brazil (Localization) <https://youtube.com/playlist?list=PL1-aSABtP6ADqexw4YNCbKPmpFggajxlX&si=RgmZR3Jco3223Np4>`_.
+- `YouTube Playlist - Tutoriais Odoo em Português <https://youtube.com/playlist?list=PL1-aSABtP6ACGOW2UREePGjHQ2Bgdy-UZ&si=j6tiI36eB7BoKVQB>`_.
+
 Introduction
 ============
 
